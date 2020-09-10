@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "JDH", "JDH\JDH.isproj", "{B900CFE3-B1CD-42E7-8F6B-F170A2876005}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Default = CD_ROM|Default
+		DVD-5|Default = DVD-5|Default
+		SingleImage|Default = SingleImage|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B900CFE3-B1CD-42E7-8F6B-F170A2876005}.CD_ROM|Default.ActiveCfg = CD_ROM
+		{B900CFE3-B1CD-42E7-8F6B-F170A2876005}.CD_ROM|Default.Build.0 = CD_ROM
+		{B900CFE3-B1CD-42E7-8F6B-F170A2876005}.DVD-5|Default.ActiveCfg = DVD-5
+		{B900CFE3-B1CD-42E7-8F6B-F170A2876005}.DVD-5|Default.Build.0 = DVD-5
+		{B900CFE3-B1CD-42E7-8F6B-F170A2876005}.SingleImage|Default.ActiveCfg = SingleImage
+		{B900CFE3-B1CD-42E7-8F6B-F170A2876005}.SingleImage|Default.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
